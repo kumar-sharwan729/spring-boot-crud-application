@@ -13,7 +13,7 @@ import javax.persistence.Table;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-@Table(name = "PRODUCT_TBL")
+@Table(name = "product_details")
 public class Product {
 
     @Id
